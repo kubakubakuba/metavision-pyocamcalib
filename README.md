@@ -27,13 +27,14 @@ frames by using something like `ffmpeg`. Or you can use the `interactive_framege
 
 The script loads the recording to an interactive window, where you can generate frames with variable exposure times at specific timestamps (and with cutoff points).
 
-![controls](docs/controls.png)
-
 ```bash
 python3.10 interactive_framegen.py INPUT_FILE OUTPUT_FOLDER [--start-time-us] [--accumulation-time-us] [--threshold] 
 ```
 
-Eached saved framed is saved in the output folder under the name `frame_{random hex}.png`.
+<img src="docs/controls.png" alt="controls" width="400"/>
+
+
+Eached frame is saved in the output folder under the name `frame_{random hex}.png`.
 
 ### Calibration point alignment
 
