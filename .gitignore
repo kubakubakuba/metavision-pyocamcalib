@@ -1,0 +1,19 @@
+raws/
+imgs/
+.venv
+__pycache__
+old/
+all1/
+calibration/
+calib.py
+
+# ignore all detections files
+*.pickle
+*.toml
+*.json
+
+# ignore raw encodings
+*.raw
+
+!sample_data/*.toml
+!sample_data/*.json

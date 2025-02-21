@@ -1,0 +1,5952 @@
+[[images]]
+path = "all/frame_5dF1dc7b.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 244
+y = 209
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 310
+y = 182
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 398
+y = 151
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 517
+y = 126
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 653
+y = 107
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 786
+y = 106
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 903
+y = 115
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 235
+y = 309
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 302
+y = 292
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 392
+y = 275
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 519
+y = 253
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 664
+y = 238
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 808
+y = 231
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 928
+y = 229
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 238
+y = 413
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 305
+y = 412
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 399
+y = 410
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 527
+y = 401
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 676
+y = 388
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 829
+y = 379
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 946
+y = 364
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 254
+y = 516
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 322
+y = 531
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 416
+y = 542
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 543
+y = 545
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 687
+y = 536
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 829
+y = 518
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 946
+y = 496
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 278
+y = 609
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 349
+y = 630
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 441
+y = 648
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 561
+y = 661
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 692
+y = 657
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 822
+y = 640
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 935
+y = 608
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_58CEf74F.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 251
+y = 209
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 319
+y = 183
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 411
+y = 154
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 532
+y = 129
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 672
+y = 111
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 802
+y = 109
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 918
+y = 119
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 244
+y = 311
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 313
+y = 293
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 408
+y = 279
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 535
+y = 258
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 683
+y = 244
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 830
+y = 237
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 944
+y = 234
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 248
+y = 419
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 317
+y = 417
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 413
+y = 417
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 544
+y = 407
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 694
+y = 395
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 843
+y = 384
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 959
+y = 369
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 264
+y = 522
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 336
+y = 537
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 431
+y = 545
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 559
+y = 549
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 703
+y = 542
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 842
+y = 524
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 958
+y = 500
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 289
+y = 615
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 362
+y = 635
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 455
+y = 653
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 575
+y = 663
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 709
+y = 660
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 837
+y = 643
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 946
+y = 612
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_F0Dd8BcF.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 401
+y = 412
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 430
+y = 377
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 463
+y = 339
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 498
+y = 300
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 535
+y = 260
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 572
+y = 223
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 610
+y = 187
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 434
+y = 449
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 465
+y = 413
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 499
+y = 376
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 534
+y = 336
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 572
+y = 297
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 611
+y = 257
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 647
+y = 221
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 469
+y = 486
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 502
+y = 451
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 537
+y = 415
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 573
+y = 374
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 611
+y = 334
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 649
+y = 295
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 687
+y = 256
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 506
+y = 522
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 539
+y = 489
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 576
+y = 453
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 613
+y = 413
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 651
+y = 373
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 689
+y = 333
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 726
+y = 293
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 545
+y = 557
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 579
+y = 524
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 615
+y = 489
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 653
+y = 450
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 691
+y = 411
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 730
+y = 372
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 764
+y = 331
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_5D412d83.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 376
+y = 207
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 439
+y = 200
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 511
+y = 195
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 590
+y = 193
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 674
+y = 194
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 755
+y = 198
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 833
+y = 205
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 368
+y = 279
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 432
+y = 275
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 504
+y = 274
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 586
+y = 273
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 673
+y = 275
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 757
+y = 279
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 833
+y = 282
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 364
+y = 353
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 428
+y = 355
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 502
+y = 357
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 582
+y = 358
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 671
+y = 362
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 756
+y = 363
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 835
+y = 364
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 365
+y = 427
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 429
+y = 434
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 499
+y = 441
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 582
+y = 446
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 669
+y = 449
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 753
+y = 447
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 831
+y = 445
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 371
+y = 498
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 432
+y = 508
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 502
+y = 518
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 582
+y = 526
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 665
+y = 528
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 747
+y = 526
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 823
+y = 522
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_28ccdFA4.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 441
+y = 253
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 489
+y = 249
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 541
+y = 247
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 596
+y = 242
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 655
+y = 241
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 714
+y = 241
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 774
+y = 241
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 439
+y = 306
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 488
+y = 304
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 540
+y = 303
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 595
+y = 301
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 655
+y = 300
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 715
+y = 300
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 774
+y = 300
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 441
+y = 360
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 487
+y = 359
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 540
+y = 360
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 596
+y = 359
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 657
+y = 356
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 715
+y = 360
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 774
+y = 359
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 443
+y = 412
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 490
+y = 415
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 541
+y = 418
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 597
+y = 419
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 659
+y = 422
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 715
+y = 419
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 773
+y = 418
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 446
+y = 465
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 493
+y = 469
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 544
+y = 472
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 599
+y = 476
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 656
+y = 476
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 714
+y = 477
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 770
+y = 474
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_1FBcbF8a.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 761
+y = 230
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 811
+y = 231
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 855
+y = 236
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 895
+y = 234
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 934
+y = 237
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 970
+y = 239
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1003
+y = 243
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 760
+y = 282
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 810
+y = 282
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 857
+y = 282
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 900
+y = 282
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 940
+y = 283
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 976
+y = 284
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1007
+y = 286
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 765
+y = 334
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 812
+y = 332
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 860
+y = 332
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 902
+y = 331
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 941
+y = 331
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 979
+y = 330
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1011
+y = 330
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 766
+y = 387
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 813
+y = 386
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 861
+y = 383
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 905
+y = 380
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 945
+y = 382
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 980
+y = 376
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1012
+y = 374
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 766
+y = 440
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 816
+y = 437
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 860
+y = 434
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 905
+y = 429
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 943
+y = 427
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 978
+y = 424
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1010
+y = 419
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_DC7EFc0D.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 483
+y = 283
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 518
+y = 284
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 557
+y = 282
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 595
+y = 283
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 635
+y = 284
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 674
+y = 284
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 715
+y = 285
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 482
+y = 322
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 519
+y = 323
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 555
+y = 323
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 594
+y = 323
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 634
+y = 324
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 674
+y = 325
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 714
+y = 325
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 482
+y = 360
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 518
+y = 361
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 555
+y = 363
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 594
+y = 363
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 633
+y = 364
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 673
+y = 364
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 714
+y = 365
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 483
+y = 397
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 518
+y = 400
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 554
+y = 401
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 594
+y = 401
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 633
+y = 403
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 673
+y = 404
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 712
+y = 405
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 487
+y = 438
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 518
+y = 435
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 555
+y = 439
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 594
+y = 439
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 632
+y = 442
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 671
+y = 443
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 710
+y = 442
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_2defd075.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 755
+y = 216
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 803
+y = 220
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 850
+y = 225
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 894
+y = 230
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 933
+y = 236
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 969
+y = 242
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1001
+y = 249
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 755
+y = 266
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 804
+y = 269
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 852
+y = 274
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 896
+y = 278
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 936
+y = 283
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 972
+y = 288
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1003
+y = 292
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 752
+y = 318
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 803
+y = 321
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 852
+y = 325
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 897
+y = 327
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 936
+y = 330
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 972
+y = 334
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1005
+y = 338
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 751
+y = 371
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 801
+y = 374
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 849
+y = 376
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 895
+y = 377
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 935
+y = 378
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 970
+y = 381
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1003
+y = 381
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 748
+y = 425
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 798
+y = 426
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 846
+y = 427
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 891
+y = 427
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 931
+y = 428
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 967
+y = 428
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 998
+y = 426
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_5FB18777.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 401
+y = 412
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 430
+y = 376
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 463
+y = 339
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 497
+y = 299
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 534
+y = 260
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 572
+y = 222
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 610
+y = 186
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 434
+y = 448
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 464
+y = 413
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 499
+y = 375
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 534
+y = 336
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 572
+y = 297
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 611
+y = 258
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 648
+y = 221
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 468
+y = 486
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 501
+y = 451
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 536
+y = 414
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 573
+y = 374
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 611
+y = 335
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 650
+y = 295
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 687
+y = 256
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 506
+y = 521
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 540
+y = 489
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 576
+y = 454
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 613
+y = 413
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 651
+y = 373
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 690
+y = 333
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 726
+y = 294
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 544
+y = 557
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 579
+y = 524
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 615
+y = 490
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 653
+y = 451
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 692
+y = 412
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 730
+y = 372
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 765
+y = 332
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_3b1fe996.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 711
+y = 220
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 717
+y = 264
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 722
+y = 313
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 726
+y = 365
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 730
+y = 418
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 733
+y = 472
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 733
+y = 524
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 662
+y = 220
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 666
+y = 266
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 670
+y = 315
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 674
+y = 367
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 676
+y = 421
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 678
+y = 476
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 679
+y = 528
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 613
+y = 223
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 614
+y = 268
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 616
+y = 317
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 618
+y = 370
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 621
+y = 424
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 623
+y = 478
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 626
+y = 531
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 564
+y = 226
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 564
+y = 272
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 564
+y = 320
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 564
+y = 372
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 566
+y = 426
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 569
+y = 480
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 572
+y = 532
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 516
+y = 230
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 515
+y = 275
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 514
+y = 323
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 513
+y = 375
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 514
+y = 429
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 514
+y = 480
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 518
+y = 531
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_4448c047.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 398
+y = 298
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 440
+y = 290
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 485
+y = 283
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 533
+y = 276
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 585
+y = 269
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 639
+y = 263
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 693
+y = 259
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 398
+y = 346
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 440
+y = 340
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 486
+y = 334
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 536
+y = 327
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 589
+y = 322
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 643
+y = 315
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 699
+y = 310
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 399
+y = 395
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 442
+y = 391
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 489
+y = 387
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 539
+y = 380
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 593
+y = 374
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 649
+y = 370
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 705
+y = 365
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 402
+y = 446
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 445
+y = 444
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 492
+y = 441
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 545
+y = 436
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 598
+y = 431
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 655
+y = 426
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 711
+y = 420
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 407
+y = 497
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 450
+y = 497
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 498
+y = 495
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 549
+y = 489
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 604
+y = 486
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 660
+y = 482
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 717
+y = 476
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_3eD6B7d7.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 252
+y = 154
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 323
+y = 134
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 419
+y = 116
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 543
+y = 105
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 682
+y = 104
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 819
+y = 119
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 933
+y = 141
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 233
+y = 256
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 304
+y = 247
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 400
+y = 239
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 531
+y = 233
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 682
+y = 238
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 826
+y = 248
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 944
+y = 262
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 227
+y = 363
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 297
+y = 368
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 392
+y = 377
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 524
+y = 384
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 677
+y = 391
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 822
+y = 395
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 940
+y = 395
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 233
+y = 469
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 302
+y = 490
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 395
+y = 513
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 523
+y = 528
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 670
+y = 538
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 807
+y = 534
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 924
+y = 524
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 250
+y = 564
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 319
+y = 590
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 411
+y = 618
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 530
+y = 647
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 660
+y = 653
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 789
+y = 649
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 897
+y = 630
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+
+
+
+
+
+
+
+
+
+[[images]]
+path = "all/frame_3eb5EC47.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 129
+y = 188
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 136
+y = 187
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 142
+y = 186
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 148
+y = 185
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 154
+y = 184
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 160
+y = 183
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 166
+y = 182
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 128
+y = 197
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 134
+y = 196
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 139
+y = 195
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 145
+y = 194
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 151
+y = 193
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 157
+y = 192
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 164
+y = 191
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 126
+y = 205
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 131
+y = 205
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 138
+y = 203
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 144
+y = 202
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 151
+y = 201
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 157
+y = 200
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 163
+y = 199
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 125
+y = 214
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 131
+y = 213
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 137
+y = 212
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 143
+y = 210
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 149
+y = 209
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 156
+y = 208
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 163
+y = 207
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 125
+y = 223
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 130
+y = 222
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 136
+y = 220
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 143
+y = 219
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 150
+y = 218
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 156
+y = 217
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 163
+y = 216
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/temp_frame.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 477
+y = 65
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 491
+y = 64
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 505
+y = 64
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 519
+y = 64
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 533
+y = 63
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 546
+y = 63
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 561
+y = 63
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 476
+y = 78
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 491
+y = 77
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 504
+y = 77
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 518
+y = 76
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 532
+y = 76
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 546
+y = 76
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 560
+y = 76
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 475
+y = 91
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 489
+y = 90
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 503
+y = 90
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 517
+y = 89
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 530
+y = 89
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 545
+y = 89
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 559
+y = 89
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 474
+y = 104
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 488
+y = 103
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 502
+y = 103
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 517
+y = 102
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 531
+y = 102
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 545
+y = 102
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 559
+y = 102
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 474
+y = 117
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 487
+y = 117
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 501
+y = 117
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 516
+y = 116
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 530
+y = 116
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 544
+y = 116
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 558
+y = 115
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_fE63726d.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 120
+y = 449
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 127
+y = 449
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 132
+y = 449
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 139
+y = 448
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 146
+y = 448
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 151
+y = 448
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 157
+y = 447
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 122
+y = 458
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 128
+y = 458
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 134
+y = 458
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 140
+y = 457
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 146
+y = 457
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 152
+y = 457
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 159
+y = 456
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 122
+y = 467
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 129
+y = 467
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 135
+y = 466
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 141
+y = 466
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 147
+y = 466
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 152
+y = 466
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 159
+y = 465
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 124
+y = 476
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 131
+y = 475
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 137
+y = 475
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 143
+y = 474
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 149
+y = 474
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 155
+y = 474
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 162
+y = 473
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 126
+y = 484
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 132
+y = 483
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 138
+y = 483
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 144
+y = 483
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 150
+y = 483
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 156
+y = 483
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 162
+y = 482
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_dd881AdF.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1164
+y = 424
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1172
+y = 425
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1180
+y = 426
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1188
+y = 426
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1195
+y = 427
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1202
+y = 426
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1211
+y = 427
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1163
+y = 437
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1171
+y = 438
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1179
+y = 439
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1186
+y = 439
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1194
+y = 440
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1201
+y = 440
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1209
+y = 441
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1161
+y = 450
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1170
+y = 450
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1177
+y = 452
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1185
+y = 452
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1192
+y = 453
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1199
+y = 453
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1207
+y = 453
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1160
+y = 463
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1168
+y = 464
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1175
+y = 464
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1183
+y = 465
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1191
+y = 466
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1197
+y = 467
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1204
+y = 467
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1158
+y = 475
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1165
+y = 476
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1173
+y = 477
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1181
+y = 478
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1188
+y = 478
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1195
+y = 479
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1203
+y = 479
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_20B94B57.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 382
+y = 536
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 404
+y = 543
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 425
+y = 549
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 447
+y = 555
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 469
+y = 561
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 492
+y = 567
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 513
+y = 572
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 378
+y = 557
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 400
+y = 563
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 421
+y = 570
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 443
+y = 576
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 465
+y = 582
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 487
+y = 587
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 509
+y = 592
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 375
+y = 576
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 396
+y = 583
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 417
+y = 590
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 439
+y = 596
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 461
+y = 602
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 483
+y = 606
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 506
+y = 611
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 373
+y = 595
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 394
+y = 602
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 414
+y = 609
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 436
+y = 615
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 457
+y = 621
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 479
+y = 625
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 500
+y = 630
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 370
+y = 615
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 390
+y = 622
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 411
+y = 628
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 432
+y = 633
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 453
+y = 639
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 475
+y = 644
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 496
+y = 648
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_aEED8Bd2.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1196
+y = 305
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1204
+y = 307
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1212
+y = 309
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1220
+y = 310
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1227
+y = 312
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1234
+y = 314
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1241
+y = 317
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1196
+y = 319
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1204
+y = 321
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1212
+y = 324
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1219
+y = 325
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1227
+y = 327
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1234
+y = 329
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1241
+y = 332
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1195
+y = 335
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1204
+y = 337
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1211
+y = 339
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1219
+y = 340
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1227
+y = 342
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1234
+y = 345
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1241
+y = 347
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1195
+y = 349
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1203
+y = 351
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1211
+y = 353
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1218
+y = 355
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1226
+y = 358
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1233
+y = 360
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1240
+y = 362
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1194
+y = 363
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1202
+y = 366
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1210
+y = 368
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1217
+y = 371
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1225
+y = 374
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1232
+y = 376
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1239
+y = 378
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_2F6beBCF.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1138
+y = 134
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1148
+y = 133
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1158
+y = 133
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1167
+y = 132
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1176
+y = 132
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1186
+y = 132
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1194
+y = 133
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1143
+y = 150
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1153
+y = 149
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1163
+y = 148
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1172
+y = 148
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1181
+y = 148
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1190
+y = 149
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1199
+y = 149
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1146
+y = 166
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1157
+y = 165
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1167
+y = 165
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1177
+y = 164
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1186
+y = 164
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1195
+y = 165
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1204
+y = 165
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1151
+y = 181
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1160
+y = 181
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1171
+y = 181
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1180
+y = 181
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1190
+y = 181
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1199
+y = 181
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1207
+y = 181
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1153
+y = 198
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1163
+y = 198
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1175
+y = 198
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1184
+y = 197
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1194
+y = 198
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1203
+y = 198
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 1212
+y = 198
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_e9a6Fea4.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 477
+y = 64
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 491
+y = 64
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 504
+y = 64
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 519
+y = 63
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 532
+y = 63
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 546
+y = 63
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 561
+y = 63
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 476
+y = 78
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 491
+y = 77
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 504
+y = 76
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 518
+y = 77
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 532
+y = 76
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 546
+y = 77
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 560
+y = 77
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 476
+y = 91
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 489
+y = 90
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 503
+y = 90
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 517
+y = 89
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 531
+y = 89
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 545
+y = 89
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 559
+y = 89
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 475
+y = 103
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 488
+y = 103
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 502
+y = 102
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 516
+y = 102
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 530
+y = 102
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 545
+y = 102
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 559
+y = 102
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 473
+y = 117
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 487
+y = 116
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 501
+y = 116
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 515
+y = 116
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 530
+y = 115
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 544
+y = 115
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 557
+y = 115
+[images.points.world_coordinates]
+x = 6
+y = 4
+
+[[images]]
+path = "all/frame_8DFb3E01.png"
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 431
+y = 17
+[images.points.world_coordinates]
+x = 0
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 449
+y = 17
+[images.points.world_coordinates]
+x = 1
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 468
+y = 18
+[images.points.world_coordinates]
+x = 2
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 487
+y = 19
+[images.points.world_coordinates]
+x = 3
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 507
+y = 21
+[images.points.world_coordinates]
+x = 4
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 526
+y = 24
+[images.points.world_coordinates]
+x = 5
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 547
+y = 28
+[images.points.world_coordinates]
+x = 6
+y = 0
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 424
+y = 31
+[images.points.world_coordinates]
+x = 0
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 442
+y = 31
+[images.points.world_coordinates]
+x = 1
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 462
+y = 32
+[images.points.world_coordinates]
+x = 2
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 481
+y = 34
+[images.points.world_coordinates]
+x = 3
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 501
+y = 36
+[images.points.world_coordinates]
+x = 4
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 521
+y = 39
+[images.points.world_coordinates]
+x = 5
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 542
+y = 41
+[images.points.world_coordinates]
+x = 6
+y = 1
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 416
+y = 45
+[images.points.world_coordinates]
+x = 0
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 435
+y = 45
+[images.points.world_coordinates]
+x = 1
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 455
+y = 47
+[images.points.world_coordinates]
+x = 2
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 474
+y = 49
+[images.points.world_coordinates]
+x = 3
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 495
+y = 51
+[images.points.world_coordinates]
+x = 4
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 516
+y = 53
+[images.points.world_coordinates]
+x = 5
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 538
+y = 56
+[images.points.world_coordinates]
+x = 6
+y = 2
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 409
+y = 60
+[images.points.world_coordinates]
+x = 0
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 429
+y = 61
+[images.points.world_coordinates]
+x = 1
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 448
+y = 62
+[images.points.world_coordinates]
+x = 2
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 469
+y = 63
+[images.points.world_coordinates]
+x = 3
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 489
+y = 66
+[images.points.world_coordinates]
+x = 4
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 510
+y = 69
+[images.points.world_coordinates]
+x = 5
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 532
+y = 72
+[images.points.world_coordinates]
+x = 6
+y = 3
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 402
+y = 77
+[images.points.world_coordinates]
+x = 0
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 421
+y = 78
+[images.points.world_coordinates]
+x = 1
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 441
+y = 79
+[images.points.world_coordinates]
+x = 2
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 462
+y = 80
+[images.points.world_coordinates]
+x = 3
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 483
+y = 83
+[images.points.world_coordinates]
+x = 4
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 504
+y = 86
+[images.points.world_coordinates]
+x = 5
+y = 4
+[[images.points]]
+
+[images.points.image_coordinates]
+x = 526
+y = 89
+[images.points.world_coordinates]
+x = 6
+y = 4
+
