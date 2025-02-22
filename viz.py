@@ -6,6 +6,11 @@ import matplotlib.pyplot as plt
 
 json_file = 'calibration.json'
 
+# ellipse parameters
+a = 425 #major axis
+b = 430 #minor axis
+theta = np.radians(0)  #rotation angle
+
 ####################################
 
 cam = Camera().load_parameters_json(json_file)
@@ -27,12 +32,6 @@ angles_deg = np.degrees(angles)
 
 distortion_center = cam.distortion_center
 stretch_matrix = cam.stretch_matrix
-
-# a = 655  # Major axis
-# b = 650  # Minor axis
-a = 425
-b = 430
-theta = np.radians(0)  # Rotation angle
 
 cx, cy = distortion_center
 
