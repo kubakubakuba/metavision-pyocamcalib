@@ -84,8 +84,19 @@ cd src/pyocamcalib/scripts
 python3.10 calibration_script.py IMAGE_DIR NUM_ROWS NUM_COLS --corners-path detections.pickle --check --camera-name NAME
 ```
 
+### Fitting an ellipse
+
+To fit an ellipse to the recording, run the `fit_ellipse.py` script. Change the source `raw` file and the initial guess for the ellipse parameters.
+
+![fish frame](docs/fish_frame.png)
+
+![ellipse fit](docs/fish_frame_ellipse.png)
+
 ### Visualization
 
-You can then visualize the calibrated lens parameters by running the `viz.py` script (with a calibration file present as `calibration.json`):
+You can then visualize the calibrated lens parameters by running the `viz.py` script (with a calibration file present as `calibration.json` and correct
+ellipse parameters from the `fit_ellipse.py` script):
 
 ![Visualization](docs/viz.png)
+
+![Visualization of a fisheye with a large FOV](docs/fish_plot.png)

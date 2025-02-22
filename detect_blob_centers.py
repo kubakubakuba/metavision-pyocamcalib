@@ -150,7 +150,7 @@ def save_labeled_data(image_paths: List[str], labeled_points: List[List[Tuple[Tu
 		}
 		labeled_data["images"].append(image_data)
 
-	with open(output_file, "w") as f:
+	with open(output_file, "a") as f:
 		toml.dump(labeled_data, f)
 	typer.echo(f"Labeled points saved to '{output_file}'.")
 
@@ -186,16 +186,16 @@ def main(
 		raise typer.Exit(1)
 
 	image_paths = glob.glob(os.path.join(folder, "*.png"))
-	labeled_points = []
 
-	for image_path in image_paths:
+	for idx, image_path in enumerate(image_paths):
+		typer.echo(f"Processing image {idx + 1}/{len(image_paths)}: {image_path}")
 		points = detect_blob_centers(image_path, color_mode, detect_blobs)
 		if points is None:  # Exit if ESC was pressed
 			break
-		labeled_points.append(points)
+		#labeled_points.append(points)
 
-	if labeled_points:  # save data only if labeling was completed
-		save_labeled_data(image_paths, labeled_points, output)
+		if points:  # save data only if labeling was completed
+			save_labeled_data([image_path, ], [points, ], output)
 
 if __name__ == "__main__":
 	app()

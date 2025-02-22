@@ -2,7 +2,13 @@ from pyocamcalib.modelling.camera import Camera
 import numpy as np
 import matplotlib.pyplot as plt
 
-cam = Camera().load_parameters_json("calibration.json")
+######## MODIFY THIS SECTION ########
+
+json_file = 'calibration.json'
+
+####################################
+
+cam = Camera().load_parameters_json(json_file)
 
 height, width = 720, 1280
 
@@ -22,8 +28,10 @@ angles_deg = np.degrees(angles)
 distortion_center = cam.distortion_center
 stretch_matrix = cam.stretch_matrix
 
-a = 655  # Major axis
-b = 650  # Minor axis
+# a = 655  # Major axis
+# b = 650  # Minor axis
+a = 425
+b = 430
 theta = np.radians(0)  # Rotation angle
 
 cx, cy = distortion_center

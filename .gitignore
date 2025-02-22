@@ -6,6 +6,8 @@ old/
 all1/
 calibration/
 calib.py
+fish280/
+fishx/
 
 # ignore all detections files
 *.pickle
