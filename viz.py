@@ -4,11 +4,12 @@ import matplotlib.pyplot as plt
 
 ######## MODIFY THIS SECTION ########
 
-json_file = 'calibration.json'
-
+#json_file = 'calibration_fish2.json'
+json_file = 'calibration_new.json'
 # ellipse parameters
-a = 425 #major axis
-b = 430 #minor axis
+#a = 425 #major axis
+#b = 430 #minor axis
+a, b = (652, 650)
 theta = np.radians(0)  #rotation angle
 
 ####################################
