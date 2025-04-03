@@ -19,22 +19,24 @@
      51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 """
 
-from pyocamcalib.modelling.calibration import CalibrationEngine
+from .pyocamcalib.src.pyocamcalib.modelling.calibration import CalibrationEngine
 import typer
 
-def main(working_dir: str,
+def main(image_working_dir: str,
 		 chessboard_size_row: int,
 		 chessboard_size_column: int,
 		 corners_path: str = None,
 		 check: bool = False,
 		 camera_name: str = "MyCamera",
 		 square_size: float = 1,
-		 fname: str = "_calibration.json"):
+		 fname: str = "calibration.json",
+		 max_degree: int = 4,
+		 working_dir: str = "./"):
 
 	"""
 	:param chessboard_size_row: Number of INNER corners per a chessboard on a row \n
 	:param chessboard_size_column: Number of INNER corners per a chessboard on a column \n
-	:param working_dir: Path to the folder which contains all the chessboard pattern of your camera.\n
+	:param image_working_dir: Path to the folder which contains all the chessboard pattern of your camera.\n
 	:param corners_path: If None perform detection. Otherwise, detection is skipped and calibration is done with corners
 	saved inside file at corners_path.
 	:param check: If True, manual corners annotations can be performed in addition to automatic detection to prevent
@@ -42,11 +44,14 @@ def main(working_dir: str,
 	:param camera_name: name of your camera.\n
 	:param square_size: size of a chessboard square side. If you don't know this size, calibration will be done in
 	chessboard square unit. Otherwise, if chessboard square side is 30 mm for example, calibration will be done in mm.
+	:param fname: name of the file where the calibration will be saved.\n
+	:param max_degree: Maximum degree of the polynomial used to model the camera.\n
+	:param working_dir: Path to the folder where the calibration will be saved.\n
 	:return:
 	"""
 
 	chessboard_size = (chessboard_size_row, chessboard_size_column)
-	ce = CalibrationEngine(working_dir, chessboard_size, camera_name, square_size)
+	ce = CalibrationEngine(image_working_dir, chessboard_size, camera_name, square_size, working_dir)
 
 	if corners_path is None:
 		ce.detect_corners(check=check)
@@ -55,7 +60,7 @@ def main(working_dir: str,
 		ce.load_detection(corners_path)
 
 	ce.estimate_fisheye_parameters()
-	ce.find_poly_inv(max_degree_inverse_poly=4)
+	ce.find_poly_inv(max_degree_inverse_poly=max_degree)
 	ce.save_calibration(filename=fname)
 	ce.show_model_projection()
 	ce.show_reprojection_error()

@@ -6,6 +6,7 @@ import glob
 import typer
 from config import Config
 from typing import List, Tuple
+from sort_blobs import sort_blobs
 
 cfg = Config()
 
@@ -146,6 +147,40 @@ def detect_blob_centers(image_path: str, color_mode: str, detect_blobs_flag: boo
 					
 					cv2.imshow(window_name, image_with_labels)
 					typer.echo(f"Removed point at {removed_center}")
+
+		elif key == ord('o'): #detect blob ordering
+			ordered_centers_dict = sort_blobs(centers)
+			ordered_centers = list(ordered_centers_dict.values())
+			
+			clicked_points = []
+			
+			current_label = (0, 0)
+			for idx, center in ordered_centers_dict.items():
+				label = (idx % GRID_SIZE[0], idx // GRID_SIZE[0])
+				clicked_points.append((center, label))
+			
+			centers = ordered_centers
+			
+			image_with_labels = cv2.cvtColor(image, cv2.COLOR_GRAY2BGR)
+			
+			for center in centers:
+				cv2.circle(image_with_labels, center, POINT_SIZE, POINT_COLOR, -1)
+			
+			for point, label in clicked_points:
+				cv2.circle(image_with_labels, point, POINT_SIZE, POINT_CLICKED_COLOR, -1)
+				label_text = f"({label[0]},{label[1]})"
+				cv2.putText(image_with_labels, label_text, 
+						(point[0] + TXT_OFFSET[0], point[1] + TXT_OFFSET[1]), 
+						cv2.FONT_HERSHEY_SIMPLEX, TXT_SIZE, TXT_COLOR, 2)
+			
+			for idx, center in ordered_centers_dict.items():
+				cv2.putText(image_with_labels, str(idx), 
+						(center[0] + TXT_OFFSET[0], center[1] - TXT_OFFSET[1]), 
+						cv2.FONT_HERSHEY_SIMPLEX, TXT_SIZE, (0, 255, 255), 2)
+			
+			cv2.imshow(window_name, image_with_labels)
+			typer.echo(f"Updated ordering with {len(clicked_points)} points")
+
 
 		elif key == ord('r'): #reset the labeling
 			clicked_points = []

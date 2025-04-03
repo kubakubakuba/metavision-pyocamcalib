@@ -8,8 +8,8 @@ This collection of scripts should allow for easier calibration pipeline of Proph
 
 Requirements:
 - Python 3.10
-- [py-OCamCalib](https://github.com/jakarto3d/py-OCamCalib)
-- [Metavision SDK](https://docs.prophesee.ai/stable/installation/index.html)
+- my fork of [py-OCamCalib](https://github.com/kubakubakuba/py-OCamCalib), original is [here](https://github.com/jakarto3d/py-OCamCalib)
+- [Metavision SDK](https://docs.prophesee.ai/stable/installation/index.html) when working with event cameras from Prophesee
 
 Pip packages:
 - numpy
@@ -48,7 +48,8 @@ You can configure the number of LEDs in the calibration lattice in `Config` obje
 
 which will detect the blobs of frames on the frames in the folder, and save all the positions to a `.toml` file. The `--color` flag can be configured to either `both` (default), `positive` or `negative` to only detect one color of the blobs. The `--no-detect` flag can be used to skip the detection.
 
-Blobs can be added manually, by pressing `n` to add a new blob, `r` to reset the labeling and detection. Press `c` to continue to the next frame after you have selected all blobs. 
+Blobs can be added manually, by pressing `n` to add a new blob, `r` to reset the labeling and detection. Press `x` to remove the closes blob to the mouse cursor. Press `o` to order the blob centers to the grid (not working well yet, look in [sort_blobs.py](https://github.com/kubakubakuba/metavision-pyocamcalib/blob/main/sort_blobs.py) at the implementation of the sorting).
+Press `c` to continue to the next frame after you have selected all blobs. 
 
 You need to click on all the points in the frame in the same order on all of the frames in order for the calibration to work (from top left corner by rows).
 
