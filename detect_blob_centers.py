@@ -12,6 +12,13 @@ cfg = Config()
 COLOR_POS = cfg.COLOR_POS
 COLOR_NEG = cfg.COLOR_NEG
 GRID_SIZE = cfg.GRID_SIZE
+POINT_SIZE = cfg.POINT_SIZE
+POINT_COLOR = cfg.POINT_COLOR
+TXT_SIZE = cfg.TXT_SIZE
+TXT_COLOR = cfg.TXT_COLOR
+TXT_OFFSET = cfg.TXT_OFFSET
+POINT_CLICKED_COLOR = cfg.POINT_CLICKED_COLOR
+
 
 clicked_points: List[Tuple[Tuple[int, int], Tuple[int, int]]] = []
 current_label: Tuple[int, int] = (0, 0)
@@ -42,9 +49,9 @@ def mouse_callback(event: int, x: int, y: int, flags: int, param):
 			typer.echo(f"Point at {closest_point}: Label {current_label}")
 
 			#draw the point and label on the image_with_labels
-			cv2.circle(image_with_labels, closest_point, 5, (0, 0, 255), -1)
+			cv2.circle(image_with_labels, closest_point, POINT_SIZE, POINT_CLICKED_COLOR, -1)
 			label = f"({current_label[0]},{current_label[1]})"
-			cv2.putText(image_with_labels, label, (closest_point[0] + 10, closest_point[1]), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+			cv2.putText(image_with_labels, label, (closest_point[0] + TXT_OFFSET[0], closest_point[1] + TXT_OFFSET[1]), cv2.FONT_HERSHEY_SIMPLEX, TXT_SIZE, TXT_COLOR, 2)
 			cv2.imshow("Select Points", image_with_labels)
 
 			if current_label[0] < GRID_SIZE[0] - 1:
@@ -58,50 +65,36 @@ def detect_blob_centers(image_path: str, color_mode: str, detect_blobs: bool = T
 	clicked_points = []
 	current_label = (0, 0)
 
-	image = cv2.imread(image_path, cv2.IMREAD_COLOR)
+	image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 
 	if image is None:
 		typer.echo(f"Error: Unable to load image at {image_path}", err=True)
 		return []
 
-	#create a mask for COLOR_POS and COLOR_NEG
-	lower_pos = np.array(COLOR_POS, dtype=np.uint8)
-	upper_pos = np.array(COLOR_POS, dtype=np.uint8)
-	lower_neg = np.array(COLOR_NEG, dtype=np.uint8)
-	upper_neg = np.array(COLOR_NEG, dtype=np.uint8)
+	blurred_image = cv2.GaussianBlur(image, (5, 5), 0)
 
-	mask_pos = cv2.inRange(image, lower_pos, upper_pos)
-	mask_neg = cv2.inRange(image, lower_neg, upper_neg)
+	_, binary_mask = cv2.threshold(blurred_image, 50, 255, cv2.THRESH_BINARY)
 
-	if color_mode == "both":
-		combined_mask = cv2.bitwise_or(mask_pos, mask_neg)
-	elif color_mode == "positive":
-		combined_mask = mask_pos
-	elif color_mode == "negative":
-		combined_mask = mask_neg
-	else:
-		raise ValueError("Invalid color mode. Use 'both', 'positive', or 'negative'.")
-
-	# morphological operations to clean up the mask
-	kernel = np.ones((5, 5), np.uint8)
-	combined_mask = cv2.morphologyEx(combined_mask, cv2.MORPH_OPEN, kernel)
-	combined_mask = cv2.morphologyEx(combined_mask, cv2.MORPH_CLOSE, kernel)
-
-	contours, _ = cv2.findContours(combined_mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+	contours, _ = cv2.findContours(binary_mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
 	centers = []
 
 	if detect_blobs:
 		for contour in contours:
-			M = cv2.moments(contour)
-			if M["m00"] != 0:
-				cx = int(M["m10"] / M["m00"])
-				cy = int(M["m01"] / M["m00"])
-				centers.append((cx, cy))
+			# Create a mask for the current contour
+			mask = np.zeros_like(image)
+			cv2.drawContours(mask, [contour], -1, 255, -1)
 
-	image_with_blobs = image.copy()
+			# Find the maximum value within the contour
+			masked_image = cv2.bitwise_and(image, image, mask=mask)
+			_, max_val, _, max_loc = cv2.minMaxLoc(masked_image)
+
+			if max_val > 0:
+				centers.append(max_loc)
+
+	image_with_blobs = cv2.cvtColor(image, cv2.COLOR_GRAY2BGR)
 	for center in centers:
-		cv2.circle(image_with_blobs, center, 5, (0, 255, 0), -1)  # Green dot for detected blobs
+		cv2.circle(image_with_blobs, center, POINT_SIZE, POINT_COLOR, -1)
 
 	image_with_labels = image_with_blobs.copy()
 
@@ -111,24 +104,25 @@ def detect_blob_centers(image_path: str, color_mode: str, detect_blobs: bool = T
 
 	cv2.imshow(window_name, image_with_labels)
 
-	#wait for user interaction
 	while True:
 		key = cv2.waitKey(1) & 0xFF
-		if key == ord('n'):  #add a new blob at the current mouse position
+		if key == ord('n'):
 			x, y = mouse_position
 			centers.append((x, y))
-			cv2.circle(image_with_labels, (x, y), 5, (0, 255, 0), -1)  # Green dot for new blob
+			cv2.circle(image_with_labels, (x, y), POINT_SIZE, POINT_COLOR, -1)
 			cv2.imshow(window_name, image_with_labels)
-		elif key == ord('r'):  #reset the labeling
+
+		elif key == ord('r'):
 			clicked_points = []
 			current_label = (0, 0)
 			image_with_labels = image_with_blobs.copy()
 			cv2.imshow(window_name, image_with_labels)
-		elif key == ord('c'):  #move to the next image
+
+		elif key == ord('c'):  # Move to the next image
 			break
 		elif key == 27:  # ESC key to exit
 			cv2.destroyAllWindows()
-			return None  # Exit the program
+			return None
 
 	cv2.destroyAllWindows()
 
