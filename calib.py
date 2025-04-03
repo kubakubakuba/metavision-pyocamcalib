@@ -19,7 +19,7 @@
      51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 """
 
-from .pyocamcalib.src.pyocamcalib.modelling.calibration import CalibrationEngine
+from pyocamcalib.modelling.calibration import CalibrationEngine
 import typer
 
 def main(image_working_dir: str,

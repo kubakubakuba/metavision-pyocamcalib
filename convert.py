@@ -24,7 +24,7 @@ import typer
 import cv2 as cv
 import matplotlib.pyplot as plt
 
-from .pyocamcalib.src.pyocamcalib.modelling.camera import Camera
+from pyocamcalib.modelling.camera import Camera
 
 
 def main(fisheye_image_path: str,
