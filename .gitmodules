@@ -1,3 +1,0 @@
-[submodule "pyocamcalib"]
-	path = pyocamcalib
-	url = git@github.com:kubakubakuba/py-OCamCalib.git
