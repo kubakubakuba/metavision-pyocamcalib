@@ -7,10 +7,10 @@ A set of scripts to calibrate a Prophesee Event based camera using py-OCamCalib
 This collection of scripts should allow for easier calibration pipeline of Prophesee Event based cameras using the py-OCamCalib library.
 It should also allow calibration of cameras, which use LED-lattice patterns for calibration, where blob detectors estimate centers of the LED grid points.
 
-Clone the repository with the submodules:
+Clone the repository:
 
 ```bash
-git clone git@github.com:kubakubakuba/metavision-pyocamcalib.git --recursive
+git clone git@github.com:kubakubakuba/metavision-pyocamcalib.git
 ```
 
 Requirements:
@@ -24,6 +24,21 @@ Pip packages:
 - matplotlib
 - toml / tomllib (based on you version of python)
 - typer
+
+It is best to install the packages in a virtual environment. You can do so by:
+
+```bash
+python3.10 -m venv .venv
+source .venv/bin/activate
+pip install numpy opencv-python matplotlib toml tomllib typer
+```
+
+To install the py-OCamCalib in the venv:
+
+```bash
+cd py-OCamCalib
+python setup.py install
+```
 
 ## Usage
 
