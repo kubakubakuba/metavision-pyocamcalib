@@ -30,7 +30,7 @@ It is best to install the packages in a virtual environment. You can do so by:
 ```bash
 python3.10 -m venv .venv
 source .venv/bin/activate
-pip install numpy opencv-python matplotlib toml tomllib typer
+pip install numpy opencv-python matplotlib toml typer
 ```
 
 To install the py-OCamCalib in the venv:
