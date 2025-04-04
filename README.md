@@ -105,7 +105,7 @@ You now need to run the calibration script to calibrate the camera. This is eith
 Or you can use the `calib.py` script in this directory directly.
 
 ```bash
-python3.10 calib.py IMAGE_DIR NUM_ROWS NUM_COLS --corners-path detections.pickle --check --camera-name NAME
+python3.10 calib.py IMAGE_DIR NUM_ROWS NUM_COLS --corners-path detections.pickle --check --camera-name NAME --fname CALIBRATION_FILENAME --max-degree MAX_POLY_DEGREE --working-dir WORK_DIR
 ```
 
 ### Fitting an ellipse
