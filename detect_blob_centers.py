@@ -62,7 +62,7 @@ def mouse_callback(event: int, x: int, y: int, flags: int, param):
 
 def detect_blobs(image: np.ndarray) -> List[Tuple[int, int]]:
 	"""Detect blob centers in the given image"""
-	blurred_image = cv2.GaussianBlur(image, (5, 5), 0)
+	blurred_image = cv2.GaussianBlur(image, (5, 5), 2)
 
 	_, binary_mask = cv2.threshold(blurred_image, 50, 255, cv2.THRESH_BINARY)
 
@@ -149,7 +149,8 @@ def detect_blob_centers(image_path: str, color_mode: str, detect_blobs_flag: boo
 					typer.echo(f"Removed point at {removed_center}")
 
 		elif key == ord('o'): #detect blob ordering
-			ordered_centers_dict = sort_blobs(centers)
+			ordered_centers_dict = sort_blobs(centers, cfg.rows, cfg.cols)
+			print(ordered_centers_dict)
 			ordered_centers = list(ordered_centers_dict.values())
 			
 			clicked_points = []
